@@ -14,13 +14,14 @@
 	background-color: black;
 	padding: 0.7em;
 	text-align: right;
-font-family: 'RocknRoll One', sans-serif;}
+font-family: 'RocknRoll One', sans-serif;
+background-image: url(../images/background.jpg);
+margin-left: 20px;
+margin-right: 20px;}
+
+
 .my-container {
 	border: 10px solid green;
 	color: zwart;
 font-family: 'RocknRoll One', sans-serif;
-background-image: url(../images/background.jpg);
-margin-left: 20;
-margin-right: 20;
-padding:16;
 }
