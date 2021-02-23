@@ -1,9 +1,16 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+
+
+
+
 .my-class {
 	color: red;
 	border: 1px solid blue;
 	background-color: lightblue;
 	padding: 0.5em;
 	text-align: center;
+	font-family: 'RocknRoll One', sans-serif;
 }
 #my-id {
 	color: pink;
@@ -11,10 +18,13 @@
 	background-color: black;
 	padding: 0.7em;
 	text-align: right;
-}
+font-family: 'RocknRoll One', sans-serif;}
 .my-container {
 	border: 10px solid green;
 	color: zwart;
-
-
+font-family: 'RocknRoll One', sans-serif;
+background-image: url(../images/background.jpg);
+margin-left: 20;
+margin-right: 20;
+padding:16;
 }
